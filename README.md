@@ -22,10 +22,10 @@ This repository contains implementations and projects completed as part of the B
    *Simulink setup for EMG signal Task_3*
 
 #### Project Demo
-<video autoplay loop muted playsinline>
-  <source src="EMG_MATLAB/Results/Final_Result.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+
+![EMG Signal Processing Demo](EMG_MATLAB/Results/Final_Result-ezgif.com-video-to-gif-converter.gif)
+
+*Demonstration of EMG signal processing and system response*
 
 ### Phantom Robot Control Implementation
 
