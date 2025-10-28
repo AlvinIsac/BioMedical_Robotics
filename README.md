@@ -71,7 +71,7 @@ Our innovative approach to rehabilitation robotics focuses on a tendon-driven ex
 - Multiple simulation scenarios (Simulation1, Simulation2, Simulation3)
 - Virtual Reality using VRML (8_palline_color.wrl)
 
-### 2. Real Phantom Robot Control
+### 3. Real Phantom Robot Control
 
 #### Features:
 - Force feedback implementation
