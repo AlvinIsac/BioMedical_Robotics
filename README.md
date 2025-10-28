@@ -7,6 +7,12 @@ This repository contains implementations and projects completed as part of the B
 
 ### EMG Signal Processing Results
 
+#### Project Demo
+
+![EMG Signal Processing Demo](EMG_MATLAB/Results/Final_Result-ezgif.com-video-to-gif-converter.gif)
+
+*Demonstration of EMG signal processing and system response*
+
 #### Signal Processing Pipeline
 ![EMG Signal Processing](EMG_MATLAB/Results/Filtered_Signal.png)
 *Visualization of the EMG signal processing pipeline showing filtered and processed EMG signals*
@@ -20,12 +26,6 @@ This repository contains implementations and projects completed as part of the B
 
 3. ![Final Implementation](EMG_MATLAB/Results/Simulink_Setup_3.png)
    *Simulink setup for EMG signal Task_3*
-
-#### Project Demo
-
-![EMG Signal Processing Demo](EMG_MATLAB/Results/Final_Result-ezgif.com-video-to-gif-converter.gif)
-
-*Demonstration of EMG signal processing and system response*
 
 ### Phantom Robot Control Implementation
 
